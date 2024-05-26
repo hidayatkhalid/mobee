@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/mobee/static/css/main.b576aed3.css",
+    "main.js": "/mobee/static/js/main.3e97afd5.js",
+    "static/js/952.1f12ef49.chunk.js": "/mobee/static/js/952.1f12ef49.chunk.js",
+    "static/js/453.218ef378.chunk.js": "/mobee/static/js/453.218ef378.chunk.js",
+    "static/media/logo.svg": "/mobee/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mobee/index.html",
+    "main.b576aed3.css.map": "/mobee/static/css/main.b576aed3.css.map",
+    "main.3e97afd5.js.map": "/mobee/static/js/main.3e97afd5.js.map",
+    "952.1f12ef49.chunk.js.map": "/mobee/static/js/952.1f12ef49.chunk.js.map",
+    "453.218ef378.chunk.js.map": "/mobee/static/js/453.218ef378.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b576aed3.css",
+    "static/js/main.3e97afd5.js"
+  ]
+}
